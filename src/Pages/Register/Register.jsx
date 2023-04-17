@@ -252,7 +252,7 @@ function Register() {
                               }} className="group text-bookhub bg-white text-lg py-3 px-8 rounded-md flex items-center 
                                   gap-6 w-max border hover:border-bookhub shadow-md hover:shadow-none"
                                   disabled={status === "loading"}>
-                                <span className="group-hover:underline">Signup with BookHub</span>
+                                <span className="group-hover:underline">Signup with FastWallet</span>
                               </button>
                             </div>
                           </div>
